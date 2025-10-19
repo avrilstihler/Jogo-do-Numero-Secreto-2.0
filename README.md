@@ -2,6 +2,9 @@
 
 Bem-vindo ao **Jogo do Número Secreto**, onde sua missão é simples (mas nem tanto 😏): **adivinhar qual número entre 1 e 10 foi sorteado pelo jogo!**
 
+![Jogo](URL-da-imagem)
+
+
 ## 💡 Como funciona?
 
 O jogo escolhe, secretamente, um número aleatório entre **1 e 10**. Seu objetivo é tentar adivinhar esse número com o menor número de tentativas possível.
