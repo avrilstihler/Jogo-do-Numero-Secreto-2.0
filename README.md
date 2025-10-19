@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Jogo do Número Secreto**, onde sua missão é simples (mas nem tanto 😏): **adivinhar qual número entre 1 e 10 foi sorteado pelo jogo!**
 
-![Jogo](URL-da-imagem)
+![Jogo](https://i.postimg.cc/13YY7MGj/Captura-de-tela-2025-10-19-151159.png)
 
 
 ## 💡 Como funciona?
